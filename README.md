@@ -3,8 +3,9 @@
 <h1 align="center">Hi 👋, I'm Darsheel Chudal</h1>
 <h3 align="center">All the way from the country of the Himalayas (Nepal), I am passionate about developing innovative and engaging websites for clients and organizations. I am committed to delivering excellence in every project, dedicating myself to providing 100% effort in any task entrusted to me. I thrive in collaborative environments, where I can work closely with my team members, exchange ideas, and learn something new every day.</h3>
 
-
 <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="500"/>
+
+  
 - 🔭 I’m currently working on **Mindrisers Technology**
 
 - 🌱 I’m currently learning **DevOps (Docker, Kubernates) and CI/CD Pipelines**
@@ -33,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darsheelchudal&" alt="darsheelchudal" /></p>
 
-<img src="https://private-user-images.githubusercontent.com/74038190/325895960-26a48b1f-4716-4b8c-b58a-027f269c8c1f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMyNjYzNDEsIm5iZiI6MTcyMzI2NjA0MSwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NjAtMjZhNDhiMWYtNDcxNi00YjhjLWI1OGEtMDI3ZjI2OWM4YzFmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODEwVDA1MDA0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiZDMxNjE3MDMyZDgxZDkyZjZmZjk1NTgwMTVkMmRkMTE0MjliOGMxYWUzZmU4N2Q3YzViZTUxNjY0YzI4NzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.cgHPYttajVt9Poh9-lKFfYwPhxlOHDJDxIK--30d2OA" width="500px"/>
+
