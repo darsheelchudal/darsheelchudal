@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="200px"/>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Darsheel Chudal</h1>
 <h3 align="center">All the way from the country of the Himalayas (Nepal), I am passionate about developing innovative and engaging websites for clients and organizations. I am committed to delivering excellence in every project, dedicating myself to providing 100% effort in any task entrusted to me. I thrive in collaborative environments, where I can work closely with my team members, exchange ideas, and learn something new every day.</h3>
