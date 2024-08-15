@@ -7,7 +7,7 @@
   
 - 🔭 I’m currently working on **Mindrisers Technology**
 
-- 🌱 I’m currently learning **DevOps (Docker, Kubernates) and CI/CD Pipelines**
+- 🌱 I’m currently learning **Javascript and it's Utilities**
 
 - 👯 I’m looking to collaborate on **Innovative projects**
 
